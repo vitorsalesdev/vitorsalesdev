@@ -5,7 +5,7 @@
 
 -  **Learning :**  Java Full-Stack Development :zap: 	
 -  **Languages :** Java
--  **Hobbies :** Games & Music :headphones:
+-  **Hobbies :** Games & Learn new things
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
