@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :**  Java Full-Stack Development :zap: 	
+-  **Learning :**  Java Full-Stack Development	
 -  **Languages :** Java
 -  **Hobbies :** Games & Learn new things
 
