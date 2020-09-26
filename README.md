@@ -1,5 +1,5 @@
 ### Vitor Sales
-  [![Linkedin Badge](https://img.shields.io/badge/-Vitor_Sales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-sales-dev///)](https://www.linkedin.com/in/vitor-sales-dev/) [![Gmail Badge](https://img.shields.io/badge/-vitorsalesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorsalesdev@gmail.com)](mailto:vitorsalesdev@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Vitor_Sales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsalesdev///)](https://www.linkedin.com/in/vitorsalesdev/) [![Gmail Badge](https://img.shields.io/badge/-vitorsalesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorsalesdev@gmail.com)](mailto:vitorsalesdev@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
