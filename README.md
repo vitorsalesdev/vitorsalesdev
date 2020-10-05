@@ -8,10 +8,7 @@
 -  **Hobbies :** Games & Learn new things
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://github.com/vitorsalesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsalesdev&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsalesdev&layout=compact" />
-</a>
-
+![github stats](https://github-readme-stats.vercel.app/api?username=vitorsalesdev&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsalesdev)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
