@@ -8,7 +8,6 @@
 -  **Hobbies :** Games & Learn new things
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![github stats](https://github-readme-stats.vercel.app/api?username=vitorsalesdev&show_icons=true)
 
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsalesdev)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
